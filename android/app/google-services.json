@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28633845245",
+    "firebase_url": "https://halla-party.firebaseio.com",
+    "project_id": "halla-party",
+    "storage_bucket": "halla-party.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28633845245:android:cac185108b79df029c1d94",
+        "android_client_info": {
+          "package_name": "com.BlazingFv.Halla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28633845245-210mgac6rcuc5s4a44gvocd77p20afoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_tPzbP0JgTxWmmcoMqkB0WmQ6zMvq3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28633845245-210mgac6rcuc5s4a44gvocd77p20afoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
